@@ -54,3 +54,5 @@ plugins:
 #   - vendor/ruby/
 header_pages:
   - about.md
+minima:
+  skin: dark
